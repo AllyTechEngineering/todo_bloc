@@ -1,6 +1,7 @@
 # todo_bloc
 Todo with search project using BLoC
 
+![bloc_architecture_full](https://github.com/AllyTechEngineering/todo_bloc/assets/124716050/f1bf65ee-76ef-491b-b8fa-18daee5d8d8c)
 
 
 
